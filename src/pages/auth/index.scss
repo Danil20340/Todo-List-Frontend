@@ -1,0 +1,23 @@
+
+.authorization-field {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    margin: 150px 0 100px 0;
+    padding: 40px 24px;
+    max-width: 400px;
+    width: -webkit-fill-available;
+    background: #FFFFFF;
+    box-shadow: 0 4px 20px rgba(44, 57, 121, 0.09);
+    border-radius: 16px;
+}
+
+@media (max-width: 768px) {
+    body {
+        background-color: #FFFFFF;
+    }
+
+    .authorization-field {
+        box-shadow: none;
+    }
+}
