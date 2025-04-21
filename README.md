@@ -108,7 +108,7 @@ http://localhost
 Эти данные можно изменить в seed-скриптах.
 
 ## 🌐 Демо
-[https://danil20340.github.io/The-minesweeper/#/](https://develop-projects.ru/auth)
+https://develop-projects.ru/auth
 
 Войти как админ:
 Логин: admin
